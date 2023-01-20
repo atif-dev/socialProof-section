@@ -29,10 +29,12 @@ This is a solution to the [Social proof section](https://www.frontendmentor.io/c
 ![PC View](https://github.com/atif-dev/socialProof-section/blob/main/screenshots/1440%20X%20900.png?raw=true)
 ![Mobile view](https://github.com/atif-dev/socialProof-section/blob/main/screenshots/Google%20Pixel%203(5.5%20in).png?raw=true)
 
+(Find more screentshots in screenshots directory)
+
 ### Links
 
 - Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/single-price-grid-component-q3sB7GyqDi
-- Live Site URL: https://atif-dev.github.io/singlePrice-card/
+- Live Site URL: https://atif-dev.github.io/socialProof-section/
 - GitHub repo : https://github.com/atif-dev/socialProof-section
 
 ## My process
