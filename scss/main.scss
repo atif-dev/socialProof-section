@@ -22,19 +22,12 @@ main{
 
 
 .container{
-    // max-width: 2500px;
     width: 60rem;
-    // margin: 0 auto;
-//  background: lightblue;
-
-
-    // border: 1px solid black; 
 
     .child1{
         display: flex;
 
         .child1__sub1{
-            // background: purple;
             width: 50%;
         }
 
@@ -47,8 +40,6 @@ main{
 
         .para{
             max-width: 28rem;
-            // width: 100%;
-            // background: red;
             color: #9A949B;
             font-size: 1.2rem;
             line-height: 1.2em;
@@ -60,35 +51,28 @@ main{
             margin-bottom: 1em;
             padding: 1em 2em;
             width: 83.5%;
-            // width: 18rem;
 
         }
 
         .child1__sub2{
-            // background: red;
             width: 50%;
         }
 
         .rating1{
-            // background:orange;
-            // width: 62%;
+            
             margin-top: 3.5em;
-            // margin-left: 5.8em;
+            
         }
 
         .rating2{
             margin-left: 2.5em;
-            // padding-right: 1em;
-            // background: green;
-            // width: 100%;
-
+           
         }
 
         .rating3{
-            // margin-left: 4.9em;
+            
             margin-left: 2.5em + 2.5em;
-            // background: purple;
-            // width: 66%;
+            
         }
 
         .rate-phrase{
@@ -104,11 +88,10 @@ main{
         width: 100%;
         .child2__a, .child2__b, .child2__c{
             background: $DarkMagenta;
-            // margin-right:1em;
-            // margin-top: 3.8em;
+           
             margin-bottom: 2em;
             border-radius: .5em;
-            // width: 501%;
+            
         }
     }
 
@@ -116,16 +99,9 @@ main{
 
     .status{
         display: flex;
-        // width: 90%;
-        img{
-            // width: 15%;
-            // height: 15%;
-        }
-        // background: red;
         .client-name{
             margin-left: 1.5em;
             margin-top: .5em;
-            // background: red;
         }
         .verif__buyer{
             line-height: 1.5em;
@@ -141,11 +117,9 @@ main{
         margin-top: 3.8em;
         margin-right: 1.5em;
         padding: 1.3em 0em 0em 2em;
-        // height: 50%;
     }
     .child2__b{
         margin-top: 4.7em;
-        // margin-bottom: -5em;
         margin-right: 1.5em;
         padding: 1.3em 0em 0em 2em;
         height: 70%;
@@ -153,7 +127,6 @@ main{
     .child2__c{
         margin-top: 5.7em;
         padding: 1.3em 0em 0em 2em;
-        // height: 50%;
         height: 70%;
     }
 
@@ -165,17 +138,13 @@ main{
         margin-top: 1em;
         line-height: 1.2em;
         width: 90%;
-        // text-align: justify;
-        // padding-bottom: 1.8em;
+    
         font-size: 1rem;
     }
     .p1{
         padding-bottom: 1em;
     }
-    .p2{
-        // text-align: left;
-    }
-
+    
     .last-rating{
         display: none;
     }
@@ -266,11 +235,7 @@ main{
         margin-top: 3.9em;
     }
 
-    .container .child2 .child2__a, .container .child2 .child2__b, .container .child2 .child2__c {
-        // margin-bottom: 12em;
-        // padding-bottom: 4em;
-    }
-
+    
     .container .child2__d{
         display: block;
         margin-top: 5.7em;
@@ -280,15 +245,8 @@ main{
         background: $DarkMagenta;
 
         margin-bottom: 6em;
-            border-radius: .5em;
+        border-radius: .5em;
     }
-
-    // .container .child2__d .purp-back{
-    //         background: #F7F1FD;
-    //         margin-bottom: 1em;
-    //         padding: 1em 2em;
-    //         width: 83.5%;
-    // }
 
     .container{
 
@@ -314,38 +272,12 @@ main{
                 margin-top: 1em;
                 line-height: 1.2em;
                 width: 95%;
-                // text-align: justify;
-                // padding-bottom: 1.8em;
+                
                 font-size: 1.1rem;
                 color: white;
             }
 
-            .status{
-                // display: flex;
-                // width: 90%;
-                img{
-                    // width: 5%;
-                    // height: 0%;
-                }
-                // background: red;
-                .client-name{
-                    // margin-left: 1.5em;
-                    // margin-top: .3em;
-                    // background: red;
-                }
-                .verif__buyer{
-                    // line-height: 1.5em;
-                }
-
-                .profile-pic{
-                    // border-radius: 3em;
-                    // width: 12%;
-                }
-
-                .verif__buyer{
-                    // color: hsl(333, 80%, 67%);
-                }
-            }
+            
         }
     }
 }
@@ -375,7 +307,6 @@ main{
 
     .container .child2__d {
         width: 55%;
-        // margin: -1em 11.4em;
         margin: -1em auto;
         padding-bottom: 1em;
         padding-right: 1em;
@@ -391,23 +322,6 @@ main{
 
     .container .child1 .para {
         width: 90%;
-    }
-
-    .container .child1 .rating1 {
-        // width: 110%;
-    }
-
-    .container .child1 .rating2 {
-        // width: 110%;
-    }
-
-    .container .child1 .rating4 {
-        // width: 52%;
-        // margin: 0 auto;
-    }
-
-    .container .child1 .last-rating {
-        // width: 105%;
     }
 
     .purp-back img{
@@ -428,19 +342,4 @@ main{
     .container .status .client-name {
         color: white;
     }
-}
-
-@media (max-width:375px) {
-    
-}
-
-
-  
-
-.attribution {
-    font-size: 11px;
-    text-align: center;
-}
-.attribution a {
-    color: hsl(228, 45%, 44%);
 }

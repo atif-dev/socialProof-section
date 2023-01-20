@@ -33,8 +33,9 @@ This is a solution to the [Social proof section](https://www.frontendmentor.io/c
 
 ### Links
 
-- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/single-price-grid-component-q3sB7GyqDi
+- Frontend Mentor solution url:  https://www.frontendmentor.io/solutions/social-proof-section-1fl3QQrMJN
 - Live Site URL: https://atif-dev.github.io/socialProof-section/
+- Google Mobile Friendly Test: https://search.google.com/test/mobile-friendly/result?id=fGdP3TB0aUmv8haIHYX7MA
 - GitHub repo : https://github.com/atif-dev/socialProof-section
 
 ## My process
